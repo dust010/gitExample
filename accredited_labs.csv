@@ -1,0 +1,19 @@
+﻿name,name_en,country,accreditor,acc_number,field,location,website,updated,source_url
+Intertek Testing Services,Intertek,GLOBAL,ILAC-MLA,multi,RoHS/ELV/REACH,Global,intertek.com,2026-03-27,baseline
+Intertek Testing Services Korea,Intertek Korea,KR,KOLAS,,RoHS/ELV/REACH,Seoul,intertek.co.kr,2026-03-27,baseline
+SGS,SGS,GLOBAL,ILAC-MLA,multi,RoHS/ELV/REACH,Global,sgs.com,2026-03-27,baseline
+SGS Korea,SGS Korea,KR,KOLAS,,RoHS/ELV/REACH,Korea,sgs.co.kr,2026-03-27,baseline
+Bureau Veritas,Bureau Veritas,GLOBAL,ILAC-MLA,multi,RoHS/ELV/REACH,Global,bureauveritas.com,2026-03-27,baseline
+TÜV Rheinland,TUV Rheinland,DE,DAkkS,,RoHS/ELV/REACH,Germany,tuv.com,2026-03-27,baseline
+TÜV SÜD,TUV SUD,DE,DAkkS,,RoHS/ELV/REACH,Germany,tuvsud.com,2026-03-27,baseline
+TÜV Nord,TUV Nord,DE,DAkkS,,RoHS/ELV/REACH,Germany,tuvnord.com,2026-03-27,baseline
+UL,UL Solutions,US,A2LA,,RoHS/ELV/REACH,USA,ul.com,2026-03-27,baseline
+Eurofins,Eurofins,GLOBAL,ILAC-MLA,multi,RoHS/ELV/REACH,Global,eurofins.com,2026-03-27,baseline
+DEKRA,DEKRA,DE,DAkkS,,RoHS/ELV/REACH,Germany,dekra.com,2026-03-27,baseline
+CTI,CTI,TW,TAF,,RoHS/ELV/REACH,Taiwan,cti.com.tw,2026-03-27,baseline
+CESI,CESI,CN,CNAS,,RoHS/ELV/REACH,China,cesi.cn,2026-03-27,baseline
+CTC,CTC,CN,CNAS,,RoHS/ELV/REACH,China,,2026-03-27,baseline
+TICW,TICW,CN,CNAS,,RoHS/ELV/REACH,China,,2026-03-27,baseline
+KTL,Korea Testing Laboratory,KR,KOLAS,,RoHS/ELV/REACH,Korea,ktl.re.kr,2026-03-27,baseline
+KIMM,KIMM,KR,KOLAS,,RoHS/ELV/REACH,Korea,kimm.re.kr,2026-03-27,baseline
+KRISS,KRISS,KR,KOLAS,,RoHS/ELV/REACH,Korea,kriss.re.kr,2026-03-27,baseline
